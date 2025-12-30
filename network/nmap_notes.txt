@@ -1,0 +1,7 @@
+
+Example:
+
+nmap -sS scanme.nmap.org
+
+Look for open ports like 22, 80, 443
+

@@ -1,0 +1,13 @@
+
+2025-03-21 09:12:11 user=alice action=login status=success ip=192.168.1.12
+
+2025-03-21 09:14:02 user=bob action=login status=failure ip=10.0.0.5
+
+2025-03-21 09:14:55 user=bob action=login status=failure ip=10.0.0.5
+
+2025-03-21 09:15:44 user=alice action=logout status=success
+
+2025-03-21 09:18:09 user=root action=login status=success ip=127.0.0.1
+
+2025-03-21 09:20:17 user=charlie action=login status=failure ip=172.16.4.9
+

@@ -1,0 +1,9 @@
+
+alice uid=1001 shell=/bin/bash
+
+bob uid=1002 shell=/bin/bash
+
+charlie uid=1003 shell=/bin/zsh
+
+root uid=0 shell=/bin/bash
+

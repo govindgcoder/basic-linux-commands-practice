@@ -1,0 +1,11 @@
+
+<database>
+
+    <host>localhost</host>
+
+    <port>5432</port>
+
+    <user>db_admin</user>
+
+</database>
+

@@ -1,0 +1,7 @@
+
+Extract all email addresses.
+
+Count unique email domains.
+
+Identify suspicious domains.
+

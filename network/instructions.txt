@@ -1,0 +1,9 @@
+
+1. Run an nmap scan on scanme.nmap.org
+
+2. Identify open ports
+
+3. Run a basic tcpdump capture (demo)
+
+4. Save outputs to files
+

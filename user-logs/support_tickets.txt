@@ -1,0 +1,7 @@
+
+Ticket #1021 user=alice issue=phishing_email
+
+Ticket #1022 user=bob issue=account_lockout
+
+Ticket #1023 user=charlie issue=password_reset
+

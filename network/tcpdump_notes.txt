@@ -1,0 +1,7 @@
+
+Example:
+
+sudo tcpdump -i any -c 10
+
+Use Ctrl+C to stop capture
+
