@@ -1,5 +1,6 @@
-
-Find all failed login attempts.
-
-Which user failed the most?
+Where are you at in the file system? -> 
+What files are there? -> 
+List all files, including hidden ->
+View one files starting 10 rows, ending 10 rows and less ->
+Save the output list command to a file “list.txt”
 

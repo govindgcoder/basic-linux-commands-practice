@@ -1,7 +1,10 @@
+Verify your access / account(?) -> 
+Which groups are you in? What permission do you have? -> 
+Can you elevate your power? -> 
+Where are you at in the file system? -> 
 
-Extract all email addresses.
-
-Count unique email domains.
-
-Identify suspicious domains.
+What files are there? -> 
+Check connectivity options / can you Connect to somewhere externally? -> 
+What are the processes happening rn? -> 
+What has the system been doing?
 
